@@ -1,1 +1,10 @@
-# android_device_samsung_SM-M346B
+# Android device tree for samsung SM-M346B (m34x)
+
+```
+#
+# Copyright (C) 2023 The Android Open Source Project
+# Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
